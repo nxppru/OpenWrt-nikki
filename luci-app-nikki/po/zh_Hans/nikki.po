@@ -899,10 +899,18 @@ msgstr "TPROXY 端口"
 msgid "TUN Config"
 msgstr "TUN 配置"
 
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:206
+msgid "TUN Interval"
+msgstr "TUN 等待间隔"
+
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:41
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:47
 msgid "TUN Mode"
 msgstr "TUN 模式"
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:202
+msgid "TUN Timeout"
+msgstr "TUN 等待超时"
 
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:122
 msgid "Test Profile"

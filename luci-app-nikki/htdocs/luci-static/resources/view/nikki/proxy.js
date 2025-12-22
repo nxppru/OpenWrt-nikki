@@ -199,6 +199,14 @@ return view.extend({
         o = s.taboption('misc', form.DynamicList, 'reserved_ip6', _('Reserved IP6'));
         o.datatype = 'ip6addr';
 
+        o = s.taboption('misc', form.Value, 'tun_timeout', _('TUN Timeout'));
+        o.datatype = 'uinteger';
+        o.rmempty = false;
+
+        o = s.taboption('misc', form.Value, 'tun_interval', _('TUN Interval'));
+        o.datatype = 'uinteger';
+        o.rmempty = false;
+
         return m.render();
     }
 });
