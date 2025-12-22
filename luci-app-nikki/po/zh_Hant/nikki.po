@@ -561,6 +561,10 @@ msgstr "匹配器"
 msgid "Memory Conservative Loader"
 msgstr "為記憶體受限裝置最佳化的載入器"
 
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:194
+msgid "Misc"
+msgstr "雜項"
+
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/mixin.js:150
 msgid "Mixed Port"
 msgstr "混合埠"
@@ -735,6 +739,14 @@ msgstr "重新載入服務"
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/profile.js:84
 msgid "Remote"
 msgstr "遠端"
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:196
+msgid "Reserved IP"
+msgstr "IPv4 保留位址"
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:199
+msgid "Reserved IP6"
+msgstr "IPv6 保留位址"
 
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/mixin.js:285
 msgid "Respect Rules"

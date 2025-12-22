@@ -191,6 +191,14 @@ return view.extend({
 
         o = s.taboption('bypass', form.DynamicList, 'bypass_fwmark', _('Bypass FWMark'));
 
+        s.tab('misc', _('Misc'));
+
+        o = s.taboption('misc', form.DynamicList, 'reserved_ip', _('Reserved IP'));
+        o.datatype = 'ip4addr';
+
+        o = s.taboption('misc', form.DynamicList, 'reserved_ip6', _('Reserved IP6'));
+        o.datatype = 'ip6addr';
+
         return m.render();
     }
 });

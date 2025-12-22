@@ -554,6 +554,10 @@ msgstr ""
 msgid "Memory Conservative Loader"
 msgstr ""
 
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:194
+msgid "Misc"
+msgstr ""
+
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/mixin.js:150
 msgid "Mixed Port"
 msgstr ""
@@ -727,6 +731,14 @@ msgstr ""
 
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/profile.js:84
 msgid "Remote"
+msgstr ""
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:196
+msgid "Reserved IP"
+msgstr ""
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:199
+msgid "Reserved IP6"
 msgstr ""
 
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/mixin.js:285
