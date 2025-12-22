@@ -84,6 +84,10 @@ msgstr ""
 msgid "Bypass DSCP"
 msgstr ""
 
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:192
+msgid "Bypass FWMark"
+msgstr ""
+
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:93
 msgid "CGroup"
 msgstr ""
@@ -208,15 +212,15 @@ msgstr ""
 msgid "Disable"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:185
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:183
 msgid "Disable ECN of quic-go"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:182
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:180
 msgid "Disable GSO of quic-go"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:179
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:177
 msgid "Disable Loopback Detector"
 msgstr ""
 
@@ -334,7 +338,7 @@ msgstr ""
 msgid "Enable"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:169
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:167
 msgid "Environment Variable Config"
 msgstr ""
 
@@ -597,7 +601,7 @@ msgstr ""
 msgid "Not Running"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:165
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:164
 msgid "Number of Open Files Hard Limit"
 msgstr ""
 
@@ -761,7 +765,7 @@ msgstr ""
 msgid "SOCKS Port"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:171
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:169
 msgid "Safe Paths"
 msgstr ""
 
@@ -778,7 +782,7 @@ msgstr ""
 msgid "Scroll To Bottom"
 msgstr ""
 
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:188
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:186
 msgid "Skip System IPv6 Check"
 msgstr ""
 
@@ -925,8 +929,6 @@ msgstr ""
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:151
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:155
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:159
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:163
-#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/app.js:167
 msgid "Unlimited"
 msgstr ""
 
